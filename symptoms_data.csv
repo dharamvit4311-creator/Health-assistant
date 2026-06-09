@@ -1,0 +1,21 @@
+condition,symptom1,symptom2,symptom3,severity,advice
+Common Cold,cough,sore throat,runny nose,Low,Rest well. Drink warm fluids. Use saline drops. See doctor if worsens.
+Viral Fever,fever,headache,body ache,Medium,Rest and drink fluids. Take paracetamol. See doctor if fever > 103°F.
+Flu,fever,cough,body ache,High,Rest completely. Stay hydrated. Antiviral medication if needed. Isolate from others.
+Allergies,itching,sneezing,runny nose,Low,Avoid allergens. Use antihistamines. Consult allergist if severe.
+Asthma,wheezing,shortness of breath,chest tightness,High,Use inhaler. Avoid triggers. Seek emergency if severe.
+Migraine,headache,sensitivity to light,nausea,Medium,Rest in dark room. Take pain reliever. Stay hydrated. See neurologist.
+Bronchitis,cough,chest pain,shortness of breath,Medium,Rest well. Use cough syrup. Steam inhalation. Antibiotics if bacterial.
+Sinusitis,sinus congestion,headache,facial pain,Medium,Saline rinse. Decongestants. Warm compress. See ENT if persistent.
+Gastroenteritis,nausea,vomiting,abdominal pain,Medium,Oral rehydration solution. Light diet. Rest. See doctor if severe.
+Food Poisoning,vomiting,diarrhea,abdominal pain,High,Hydration. Rest. Bland diet. Seek medical help if severe.
+Urinary Tract Infection,burning urination,frequent urination,lower abdominal pain,Medium,Drink water. Antibiotics prescribed by doctor. Cranberry juice helps.
+Skin Rash,itching,redness,skin irritation,Low,Keep area clean. Use moisturizer. Avoid allergens. See dermatologist if spreads.
+Chickenpox,fever,rash,itching,High,Rest. Oatmeal baths. Antihistamines. Isolation. Antiviral if severe.
+Typhoid,high fever,weakness,abdominal pain,High,Antibiotics required. Hospitalization often needed. Rest completely.
+Diabetes Symptoms,excessive thirst,frequent urination,weight loss,High,Check blood sugar. See endocrinologist. Diet control. Regular monitoring.
+Hypertension,headache,dizziness,chest discomfort,High,Blood pressure check. Reduce salt. Exercise. Medication as prescribed.
+Anxiety,chest tightness,shortness of breath,dizziness,Medium,Deep breathing. Meditation. Counseling. Medication if needed.
+Insomnia,fatigue,lack of sleep,irritability,Medium,Sleep hygiene. Avoid caffeine. Relaxation techniques. See sleep specialist.
+Low Blood Pressure,dizziness,fatigue,weakness,Medium,Increase salt & fluid intake. Rest well. Iron-rich diet. See doctor.
+Depression,fatigue,sadness,loss of interest,High,Seek mental health support. Therapy. Medication if needed. Talk to loved ones.
