@@ -1,0 +1,13 @@
+goal,age_min,age_max,bmi_category,calories,breakfast,lunch,dinner,snack,avoid
+weight_loss,10,20,underweight,1600,Oats with banana + 1 glass milk,Grilled chicken with brown rice and veggies,Dal with roti and steamed vegetables,Apple or yogurt,Fried foods and sugary drinks
+weight_loss,10,20,normal,1600,Scrambled eggs with whole wheat bread,Tuna salad with olive oil,Baked salmon with sweet potato,Almonds or berries,Chips and sweets
+weight_loss,10,20,overweight,1400,Greek yogurt with berries,Lentil soup with whole grain bread,Grilled fish with broccoli,Carrot sticks with hummus,Processed foods and soda
+weight_loss,21,40,underweight,1800,Pancakes with honey and berries,Chickpea curry with basmati rice,Grilled turkey with quinoa,Peanut butter on apple,Fast food and desserts
+weight_loss,21,40,normal,1800,Chia seed pudding with milk,Grilled chicken wrap,Vegetable stir-fry with brown rice,Mixed nuts,High-fat dairy and alcohol
+weight_loss,21,40,overweight,1500,Smoothie with protein powder,Vegetable soup and whole wheat roll,Baked chicken breast with salad,Orange or berries,Sugar and fried items
+weight_gain,10,20,underweight,2500,Peanut butter sandwich with milk,Rice with paneer curry,Pasta with chicken and cream sauce,Protein shake with banana,None - eat everything
+weight_gain,21,40,underweight,3000,Eggs and toast with butter,Biryani or rice with mutton,Grilled fish with basmati rice and ghee,Dates and milk shake,None - high calorie foods encouraged
+maintenance,10,20,normal,2000,Cereals with milk and fruit,Chicken sandwich with salad,Dal makhani with naan,Mixed fruit,Excess sweets and fried food
+maintenance,21,40,normal,2200,Idli with sambar,Lunch with rice and curry,Roti with vegetable curry,Popcorn or fruit,High sugar and excessive oil
+maintenance,41,60,normal,2000,Oats with honey,Light curry with brown rice,Vegetable soup with bread,Fruits,Processed foods and excess sodium
+maintenance,61,100,normal,1800,Toast with jam,Light lunch with soft foods,Soft dinner with rice,Boiled eggs,Hard foods and spicy items
